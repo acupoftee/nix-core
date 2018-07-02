@@ -26,18 +26,20 @@
   "repository": "https://github.com/SpyMaster356/nix-core",
   "license": "MIT",
   "dependencies": {
-    "winston": "^3.0.0-rc1",
-    "nix-data-memory": "github:nix-core/nix-data-memory#master"
+    "nix-data-memory": "github:nix-core/nix-data-memory#master",
+    "winston": "^3.0.0-rc1"
   },
   "peerDependencies": {
     "discord.js": "^11.3.0",
-    "rx": "^4.1.0"
+    "rx": "^4.1.0",
+    "rxjs": "^5.0.0"
   },
   "devDependencies": {
     "discord.js": "github:hydrabolt/discord.js#11.3-dev",
     "eslint": "^4.14.0",
     "glob": "^7.1.2",
+    "nix-data-disk": "github:nix-core/nix-data-disk#master",
     "rx": "^4.1.0",
-    "nix-data-disk": "github:nix-core/nix-data-disk#master"
+    "rxjs": "^5.0.0"
   }
 }
