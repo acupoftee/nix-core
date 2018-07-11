@@ -630,13 +630,13 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
 
-"nix-data-disk@github:nix-core/nix-data-disk#master":
-  version "0.0.0"
-  resolved "https://codeload.github.com/nix-core/nix-data-disk/tar.gz/b44ab7815e65e4d2a65816c0c6f029e599880a71"
+"nix-data-disk@github:nix-core/nix-data-disk#v1.0.0":
+  version "1.0.0"
+  resolved "https://codeload.github.com/nix-core/nix-data-disk/tar.gz/0370bb576fe05486523eed54a8ce8f8b69038e58"
 
-"nix-data-memory@github:nix-core/nix-data-memory#master":
-  version "0.0.0"
-  resolved "https://codeload.github.com/nix-core/nix-data-memory/tar.gz/8ef7e3aff8f21bfe8ee1aaff9a49ab8655ad26f6"
+"nix-data-memory@github:nix-core/nix-data-memory#v1.0.0":
+  version "1.0.0"
+  resolved "https://codeload.github.com/nix-core/nix-data-memory/tar.gz/3ea419066262120807cc51b54f730a9110fb1ddb"
 
 object-assign@^4.0.1:
   version "4.1.1"

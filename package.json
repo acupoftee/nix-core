@@ -1,6 +1,6 @@
 {
   "name": "nix-core",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "A framework for discord bots",
   "homepage": "",
   "author": {
@@ -26,7 +26,7 @@
   "repository": "https://github.com/SpyMaster356/nix-core",
   "license": "MIT",
   "dependencies": {
-    "nix-data-memory": "github:nix-core/nix-data-memory#master",
+    "nix-data-memory": "github:nix-core/nix-data-memory#v1.0.0",
     "winston": "^3.0.0-rc1"
   },
   "peerDependencies": {
@@ -38,7 +38,7 @@
     "discord.js": "github:hydrabolt/discord.js#11.3-dev",
     "eslint": "^4.14.0",
     "glob": "^7.1.2",
-    "nix-data-disk": "github:nix-core/nix-data-disk#master",
+    "nix-data-disk": "github:nix-core/nix-data-disk#v1.0.0",
     "rx": "^4.1.0",
     "rxjs": "^5.0.0"
   }
